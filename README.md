@@ -89,5 +89,6 @@ This project focuses on optimizing an **investment portfolio** by forecasting st
 
 ## 📁 Project Structure
 ## 📒 Interactive Jupyter Notebook
-Click below to open the notebook interactively:  
-🔗 **[View on nbviewer](https://nbviewer.org/github/YOUR_USERNAME/Investment-Portfolio-Optimization/blob/main/Copy_of_Analytics_5366_Project_Investment_Portfolio.ipynb)**
+## 📒 Jupyter Notebook
+You can view the full notebook here:  
+🔗 **[Investment Portfolio Analysis Notebook](https://github.com/Sh0hidul/Investment-Portfolio-Optimization/blob/main/Copy_of_Analytics_5366_Project_Investment_Portfolio.ipynb)**
