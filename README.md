@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project focuses on optimizing an **investment portfolio** by forecasting stock prices and minimizing risk using **advanced analytics**. It applies **descriptive, predictive, and prescriptive analytics** to five prominent stocks—**Amazon, AMD, Cisco, Netflix, and Apple**—to strategically allocate investments and achieve a **target return of 5% while minimizing risk**.
 
----
 
 ## 🚀 Key Features
 ### 🔍 Descriptive Analytics
@@ -24,14 +23,12 @@ This project focuses on optimizing an **investment portfolio** by forecasting st
 - 🔗 **Correlation and covariance analysis for risk assessment**
 - 💰 **Investment weight optimization to balance risk and return**
 
----
 
 ## 📂 Dataset
 - **Source:** [NASDAQ Historical Data](https://www.nasdaq.com/market-activity/quotes/historical)
 - **Time Period:** 2014 - 2024
 - **Stocks Analyzed:** `Amazon (AMZN)`, `AMD (AMD)`, `Cisco (CSCO)`, `Netflix (NFLX)`, `Apple (AAPL)`
 
----
 
 ## 🔧 Tools & Technologies Used
 - 🐍 **Python (NumPy, Pandas, Matplotlib, Seaborn)**
@@ -40,7 +37,6 @@ This project focuses on optimizing an **investment portfolio** by forecasting st
 - 📡 **Time Series Forecasting (AutoReg model)**
 - 📈 **Data Visualization (Matplotlib, Seaborn)**
 
----
 
 ## 📁 Project Structure
 # 📈 Investment Portfolio Optimization Using Predictive & Prescriptive Analytics
@@ -48,8 +44,6 @@ This project focuses on optimizing an **investment portfolio** by forecasting st
 ## 📌 Project Overview
 This project focuses on optimizing an **investment portfolio** by forecasting stock prices and minimizing risk using **advanced analytics**. It applies **descriptive, predictive, and prescriptive analytics** to five prominent stocks—**Amazon, AMD, Cisco, Netflix, and Apple**—to strategically allocate investments and achieve a **target return of 5% while minimizing risk**.
 
----
-
 ## 🚀 Key Features
 ### 🔍 Descriptive Analytics
 - 📊 **Historical stock trend analysis**
@@ -69,14 +63,11 @@ This project focuses on optimizing an **investment portfolio** by forecasting st
 - 🔗 **Correlation and covariance analysis for risk assessment**
 - 💰 **Investment weight optimization to balance risk and return**
 
----
-
 ## 📂 Dataset
 - **Source:** [NASDAQ Historical Data](https://www.nasdaq.com/market-activity/quotes/historical)
 - **Time Period:** 2014 - 2024
 - **Stocks Analyzed:** `Amazon (AMZN)`, `AMD (AMD)`, `Cisco (CSCO)`, `Netflix (NFLX)`, `Apple (AAPL)`
 
----
 
 ## 🔧 Tools & Technologies Used
 - 🐍 **Python (NumPy, Pandas, Matplotlib, Seaborn)**
@@ -85,10 +76,6 @@ This project focuses on optimizing an **investment portfolio** by forecasting st
 - 📡 **Time Series Forecasting (AutoReg model)**
 - 📈 **Data Visualization (Matplotlib, Seaborn)**
 
----
 
-## 📁 Project Structure
-## 📒 Interactive Jupyter Notebook
-## 📒 Jupyter Notebook
 You can view the full notebook here:  
 🔗 **[Investment Portfolio Analysis Notebook](https://github.com/Sh0hidul/Investment-Portfolio-Optimization/blob/main/Copy_of_Analytics_5366_Project_Investment_Portfolio.ipynb)**
